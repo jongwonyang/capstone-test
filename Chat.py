@@ -1,4 +1,4 @@
 class Chat:
-    def __init__(self, name, string):
+    def __init__(self, name, phrase):
         self.name = name
-        self.string = string
+        self.phrase = phrase

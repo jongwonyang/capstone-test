@@ -15,6 +15,6 @@ while True:
 kkma = Kkma()
 
 for chat in chatting:
-    print(kkma.pos(chat.string))
+    print(kkma.pos(chat.phrase))
 
 file.close()
